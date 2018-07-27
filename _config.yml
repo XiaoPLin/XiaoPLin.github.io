@@ -1,9 +1,9 @@
 # Site settings
 title: BY Blog
-SEOTitle: 友人A的博客 | BY Blog
+SEOTitle: 友人A的博客 | XiaoPLin Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
+email: 13415028937@163.com
+description: "Life is short, you need Python."
 keyword: "BY, BY Blog, 友人A的博客, XiaoPLin, 林晓鹏, Python, MachineLearning, DeepingLearning"
 url: "http://xiaoplin.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -57,7 +57,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+disqus_username: XiaoPLin
 
 # Gitalk
 gitalk:
